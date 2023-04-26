@@ -14,6 +14,7 @@
 
 This is a simple Streamlit app that utilizes computer vision to detect and classify objects based on their material (biodegradable, cardboard, glass, metal, paper, and plastic). The app also provides information on the color of the bin in which the object should be thrown. This is based on the recycling guidelines of [San Sebastian/Donostia](https://www.donostia.eus/ataria/es/web/ingurumena/residuos/informacion-para-residentes/reciclaje), in Spain, although it could be adapted to other cities.
 
+The app can be visited here: https://recycle.streamlit.app/
 
 ## 🚀 Installation
 
